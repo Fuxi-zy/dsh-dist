@@ -1,7 +1,12 @@
 {
-  "upstream_sha": "b150a551b8d465e31e418e1b2eaf5e79bbb7d28e",
-  "tag": "master-b150a551b-20260826-1018",
-  "gitee_release": "https://gitee.com/zhang-jixiangZJX/dsh-dist/releases/master-b150a551b-20260826-1018",
-  "github_release": "https://github.com/Fuxi-zy/dsh-dist/releases/tag/master-b150a551b-20260826-1018",
-  "built_at": "2026-08-26T10:18:29Z"
+  "version": "0.1.1-rc.2",
+  "built_at": "2026-08-27T03:58:27Z",
+  "bundle": {
+    "win_x64": {
+      "gitee_url": "https://gitee.com/zhang-jixiangZJX/dsh-dist/releases/bundle-v0.1.1-rc.2-win-x64",
+      "github_url": "https://github.com/Fuxi-zy/dsh-dist/releases/tag/bundle-v0.1.1-rc.2-win-x64",
+      "size": 25735412,
+      "sha256": "46f9ab1664647ee2c83f0ec336b6c448952057ccf3e3e7b28056e5d6fc9fa6dd"
+    }
+  }
 }
