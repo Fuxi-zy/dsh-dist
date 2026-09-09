@@ -1,12 +1,12 @@
 {
   "version": "0.1.2-rc.1",
-  "built_at": "2026-09-04T12:55:24Z",
+  "built_at": "2026-09-09T19:28:30Z",
   "bundle": {
     "win_x64": {
       "gitee_url": "https://gitee.com/zhang-jixiangZJX/dsh-dist/releases/bundle-v0.1.2-rc.1-win-x64",
       "github_url": "https://github.com/Fuxi-zy/dsh-dist/releases/tag/bundle-v0.1.2-rc.1-win-x64",
-      "size": 27520516,
-      "sha256": "c2d847ad20cadee8e9f081137ff8646293dfa76c0b1b006a7e04b2647fb8641f"
+      "size": 26784208,
+      "sha256": "d2b94ac3291489e2ede418c17add40a4639db8816ff3b19a95dcb4bd45593b44"
     }
   }
 }
